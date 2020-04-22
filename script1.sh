@@ -1,3 +1,3 @@
 #!/bin/bash
-cat Chapter1.txt
+cat Chapter1
 echo "Hello World!"
